@@ -1,0 +1,7 @@
+{"route":"/v1/events","latency_ms":12.4,"status":201}
+{"route":"/v1/events","latency_ms":18.1,"status":201}
+{"route":"/v1/events","latency_ms":240.0,"status":201}
+{"route":"/v1/events/id","latency_ms":4.2,"status":200}
+{"route":"/v1/events/id","latency_ms":3.8,"status":200}
+{"route":"/health","latency_ms":1.1,"status":200}
+{"route":"/v1/events","latency_ms":900.0,"status":500}
